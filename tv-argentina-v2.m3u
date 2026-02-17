@@ -1,0 +1,33 @@
+#EXTM3U
+
+##### NOTICIAS #####
+#EXTINF:-1 group-title="Noticias",Canal 26
+https://live.canal26.com/26hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",A24 (Alternativo)
+https://streaming-a24.m3u8
+
+#EXTINF:-1 group-title="Noticias",IP Noticias
+https://ipnoticias-live.m3u8
+
+
+##### CANALES ARGENTINOS #####
+#EXTINF:-1 group-title="Canales Argentinos",TV Pública
+https://tvpublica-live.m3u8
+
+#EXTINF:-1 group-title="Canales Argentinos",América TV
+https://americatv-live.m3u8
+
+#EXTINF:-1 group-title="Canales Argentinos",Net TV
+https://nettv-live.m3u8
+
+
+##### DEPORTES (SIN DRM) #####
+#EXTINF:-1 group-title="Deportes",DeporTV
+https://deportv-live.m3u8
+
+#EXTINF:-1 group-title="Deportes",Fútbol Alternativo 1
+https://futbol-arg-1.m3u8
+
+#EXTINF:-1 group-title="Deportes",Fútbol Alternativo 2
+https://futbol-arg-2.m3u8
