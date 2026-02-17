@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml"
+
+##### NOTICIAS #####
+#EXTINF:-1 group-title="Noticias",C5N
+https://cdn.cvattv.com.ar/live/c3eds/C5N/SA_Live_dash_enc/C5N.mpd
+
+#EXTINF:-1 group-title="Noticias",TN
+https://cdn.cvattv.com.ar/live/c3eds/TN/SA_Live_dash_enc/TN.mpd
+
+##### CANALES PRINCIPALES #####
+#EXTINF:-1 group-title="Canales Argentinos",Telefe
+https://cdn.cvattv.com.ar/live/c3eds/Telefe/SA_Live_dash_enc/Telefe.mpd
+
+#EXTINF:-1 group-title="Canales Argentinos",El Trece
+https://cdn.cvattv.com.ar/live/c3eds/ElTrece/SA_Live_dash_enc/ElTrece.mpd
+
+##### DEPORTES / FUTBOL #####
+#EXTINF:-1 group-title="Deportes",TyC Sports
+https://cdn.cvattv.com.ar/live/c3eds/TyCSports/SA_Live_dash_enc/TyCSports.mpd
